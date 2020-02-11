@@ -1,0 +1,16 @@
+{
+"companyName": "Anthony Parisi",
+"productName": "Parisi_Milestone2",
+"productVersion": "0.2",
+"dataUrl": "WEB_Vapor_Build.data.unityweb",
+"wasmCodeUrl": "WEB_Vapor_Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEB_Vapor_Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.14f1"
+}
